@@ -2,7 +2,9 @@
 [![](https://img.shields.io/badge/-@Rogue24-%23181717?style=flat-square&logo=github)](https://github.com/Rogue24)
 ![iOS](https://img.shields.io/badge/-iOS-%232c3e50?style=flat-square&logo=iOS)
 
-🥳一枚平平无奇的iOS开发者，十分热衷iOS的动画动效，并且喜欢分享技术要点，编写博客，不断优化个人代码库。
+🥳平平无奇的iOS开发者一枚：
+	- UI狂魔，十分热衷iOS的动画动效
+	- 喜欢分享一些平时开发比较少见的见解
 
 ## Status
 
