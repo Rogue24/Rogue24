@@ -3,8 +3,9 @@
 ![iOS](https://img.shields.io/badge/-iOS-%232c3e50?style=flat-square&logo=iOS)
 
 🥳平平无奇的iOS开发者一枚：
-	- UI狂魔，十分热衷iOS的动画动效
-	- 喜欢分享一些平时开发比较少见的见解
+
+- UI狂魔，十分热衷iOS的动画动效
+- 喜欢分享一些平时开发比较少见的见解
 
 ## Status
 
