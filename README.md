@@ -17,8 +17,7 @@
 |:---:|:---:|:---:|
 |![](https://github.com/Rogue24/JPCover/raw/master/JPImageresizerView/cover.gif)|![](https://github.com/Rogue24/JPCover/raw/master/InfiniteeUI/sunorder.gif)|![](https://github.com/Rogue24/JPCover/raw/master/JPFloatingWindow/gif_example.gif)|
 
-|[JPPictureInPictureDemo](https://github.com/Rogue24/JPPictureInPictureDemo)
-|[JPLiquidLayout](https://github.com/Rogue24/JPLiquidLayout)|[FirstLineHeadIndentAnimation](https://github.com/Rogue24/FirstLineHeadIndentAnimation)|
+|[JPPictureInPictureDemo](https://github.com/Rogue24/JPPictureInPictureDemo)|[JPLiquidLayout](https://github.com/Rogue24/JPLiquidLayout)|[FirstLineHeadIndentAnimation](https://github.com/Rogue24/FirstLineHeadIndentAnimation)|
 |:---:|:---:|:---:|
 |![](https://github.com/Rogue24/JPCover/raw/master/JPPictureInPictureDemo/gif_example.gif)|![](https://github.com/Rogue24/JPCover/raw/master/JPLiquidLayout/insert.gif)|![](https://github.com/Rogue24/JPCover/raw/master/FirstLineHeadIndentAnimation/cover.gif)|
 
