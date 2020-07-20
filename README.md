@@ -21,6 +21,11 @@
 |:---:|:---:|:---:|
 |![](https://github.com/Rogue24/JPCover/raw/master/JPPictureInPictureDemo/gif_example.gif)|![](https://github.com/Rogue24/JPCover/raw/master/JPLiquidLayout/insert.gif)|![](https://github.com/Rogue24/JPCover/raw/master/FirstLineHeadIndentAnimation/cover.gif)|
 
+## Contact
+
+	扣扣：184669029
+	E-mail: zhoujianping24@hotmail.com
+
 ## Visitors
 
 [![HitCount](http://hits.dwyl.com/Rogue24/Rogue24.svg)](http://hits.dwyl.com/Rogue24/Rogue24)
