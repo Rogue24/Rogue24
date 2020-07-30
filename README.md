@@ -7,11 +7,11 @@
 - UI狂魔🤩十分热衷iOS的动画动效
 - 喜欢分享一些平时开发比较少见的见解🧐
 
-**坐标广州，希望能找一份iOS开发的工作，有坑请联系我。**
+**`坐标广州，希望能找一份iOS开发的工作，有坑请联系我。`**
 
 ## Status
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=Rogue24&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Rogue24's github stats](https://github-readme-stats.vercel.app/api?username=Rogue24&show_icons=true&theme=tokyonight)
 
 ## My partial repository
 
