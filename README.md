@@ -21,6 +21,10 @@
 |:---:|:---:|:---:|
 |![](https://github.com/Rogue24/JPCover/raw/master/JPPictureInPictureDemo/gif_example.gif)|![](https://github.com/Rogue24/JPCover/raw/master/JPLiquidLayout/insert.gif)|![](https://github.com/Rogue24/JPCover/raw/master/FirstLineHeadIndentAnimation/cover.gif)|
 
+|[OneDay](https://github.com/Rogue24/OneDay)|
+|:---:|
+|![](https://github.com/Rogue24/JPCover/raw/master/OneDay/medium_small_example.jpg)|
+
 ## Contact
 
 	QQ: 184669029
