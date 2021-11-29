@@ -19,7 +19,7 @@
 
 |[JPPictureInPictureDemo](https://github.com/Rogue24/JPPictureInPictureDemo)|[JPLiquidLayout](https://github.com/Rogue24/JPLiquidLayout)|[OneDay](https://github.com/Rogue24/OneDay)|
 |:---:|:---:|:---:|
-|![](https://github.com/Rogue24/JPCover/raw/master/JPPictureInPictureDemo/gif_example.gif)|![](https://github.com/Rogue24/JPCover/raw/master/JPLiquidLayout/insert.gif)|![](https://github.com/Rogue24/JPCover/raw/master/OneDay/medium_small_example.jpg)|
+|![](https://github.com/Rogue24/JPCover/raw/master/JPPictureInPictureDemo/gif_example.gif)|![](https://github.com/Rogue24/JPCover/raw/master/JPLiquidLayout/insert.gif)|![](https://github.com/Rogue24/JPCover/raw/master/OneDay/cover.jpg)|
 
 |[FirstLineHeadIndentAnimation](https://github.com/Rogue24/FirstLineHeadIndentAnimation)|
 |:---:|
