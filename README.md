@@ -9,7 +9,7 @@
 
 ## Status
 
-![Rogue24's github stats](https://github-readme-stats.vercel.app/api?username=Rogue24&show_icons=true&theme=tokyonight)
+![Rogue24's github stats](https://readme-stats.clckblog.space/api?username=Rogue24&show_icons=true&theme=tokyonight)
 
 ## My partial repository
 
