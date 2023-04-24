@@ -17,9 +17,9 @@
 |:---:|:---:|:---:|
 |![](https://github.com/Rogue24/JPCover/raw/master/JPImageresizerView/cover.gif)|![](https://github.com/Rogue24/JPCover/raw/master/InfiniteeUI/sunorder.gif)|![](https://github.com/Rogue24/JPCover/raw/master/JPFloatingWindow/gif_example.gif)|
 
-|[JPPictureInPictureDemo](https://github.com/Rogue24/JPPictureInPictureDemo)|[JPLiquidLayout](https://github.com/Rogue24/JPLiquidLayout)|[WaterfallLayout](https://github.com/Rogue24/WaterfallLayoutDemo)|
+|[TurntableView-Demo](https://github.com/Rogue24/TurntableView-Demo)|[JPLiquidLayout](https://github.com/Rogue24/JPLiquidLayout)|[WaterfallLayout](https://github.com/Rogue24/WaterfallLayoutDemo)|
 |:---:|:---:|:---:|
-|![](https://github.com/Rogue24/JPCover/raw/master/JPPictureInPictureDemo/gif_example.gif)|![](https://github.com/Rogue24/JPCover/raw/master/JPLiquidLayout/insert.gif)|![](https://github.com/Rogue24/JPCover/raw/master/WaterfallLayout/WaterfallLayout_1.gif)|
+|![](https://github.com/Rogue24/JPCover/raw/master/TurntableView-Demo/TurntableView-Demo_1.gif)|![](https://github.com/Rogue24/JPCover/raw/master/JPLiquidLayout/insert.gif)|![](https://github.com/Rogue24/JPCover/raw/master/WaterfallLayout/WaterfallLayout_1.gif)|
 
 |[FirstLineHeadIndentAnimation](https://github.com/Rogue24/FirstLineHeadIndentAnimation)|[OneDay](https://github.com/Rogue24/OneDay)|[JPMovieWriter](https://github.com/Rogue24/JPMovieWriter_Demo)
 |:---:|:---:|:---:|
