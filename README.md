@@ -17,17 +17,13 @@
 |:---:|:---:|:---:|
 |![](https://github.com/Rogue24/JPCover/raw/master/JPImageresizerView/cover.gif)|![](https://github.com/Rogue24/JPCover/raw/master/InfiniteeUI/sunorder.gif)|![](https://github.com/Rogue24/JPCover/raw/master/JPFloatingWindow/gif_example.gif)|
 
-|[JPMovieWriter](https://github.com/Rogue24/JPMovieWriter_Demo)|[WaterfallLayout](https://github.com/Rogue24/WaterfallLayoutDemo)|[JPCrop](https://github.com/Rogue24/JPCrop)|
-|:---:|:---:|:---:|
-|![](https://github.com/Rogue24/JPCover/raw/master/JPMovieWriter_Demo/JPMovieWriter_1.gif)|![](https://github.com/Rogue24/JPCover/raw/master/WaterfallLayout/WaterfallLayout_1.gif)|![](https://github.com/Rogue24/JPCover/raw/master/JPCrop/example.gif)|
+|[WaterfallLayout](https://github.com/Rogue24/WaterfallLayoutDemo)|[JPCrop](https://github.com/Rogue24/JPCrop)|
+|:---:|:---:|
+|![](https://github.com/Rogue24/JPCover/raw/master/WaterfallLayout/WaterfallLayout_1.gif)|![](https://github.com/Rogue24/JPCover/raw/master/JPCrop/example.gif)|
 
-|[TurntableView](https://github.com/Rogue24/TurntableView-Demo)|[JPLiquidLayout](https://github.com/Rogue24/JPLiquidLayout)|[OneDay](https://github.com/Rogue24/OneDay)|
-|:---:|:---:|:---:|
-|![](https://github.com/Rogue24/JPCover/raw/master/TurntableView-Demo/TurntableView-Demo_1.gif)|![](https://github.com/Rogue24/JPCover/raw/master/JPLiquidLayout/insert.gif)|![](https://github.com/Rogue24/JPCover/raw/master/OneDay/cover.jpg)|
-
-|[FirstLineHeadIndentAnimation](https://github.com/Rogue24/FirstLineHeadIndentAnimation)|
+|[TurntableView](https://github.com/Rogue24/TurntableView-Demo)|
 |:---:|
-|![](https://github.com/Rogue24/JPCover/raw/master/FirstLineHeadIndentAnimation/cover.gif)|
+|![](https://github.com/Rogue24/JPCover/raw/master/TurntableView-Demo/TurntableView-Demo_1.gif)|
 
 ## Contact
 
