@@ -18,6 +18,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rogue24/Rogue24/output/github-contribution-grid-snake.svg">
 </picture>
 
+## Job-hunt
+
+👨‍💼 广州**iOS**求职 - 比较擅长代码级别的性能优化
+
 ## My partial repository
 
 |[JPImageresizerView](https://github.com/Rogue24/JPImageresizerView)|[InfiniteeUI](https://github.com/Rogue24/InfiniteeUI)|[JPFloatingWindow](https://github.com/Rogue24/JPFloatingWindow)|
