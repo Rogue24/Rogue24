@@ -8,10 +8,6 @@
 - 🛠 喜欢封装一些高效简洁且易用的工具类
 - 🧐 喜欢分享一些平时开发比较少见的见解
 
-## Job-hunt
-
-👨‍💼 广州**iOS**求职 - 比较擅长代码级别的性能优化
-
 ## Status
 
 ![Rogue24's github stats](https://readme-stats.clckblog.space/api?username=Rogue24&show_icons=true&theme=tokyonight)
