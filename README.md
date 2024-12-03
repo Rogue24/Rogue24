@@ -8,6 +8,12 @@
 - 🛠 喜欢封装一些高效简洁且易用的工具类
 - 🧐 喜欢分享一些平时开发比较少见的见解
 
+## Job-hunt
+
+👨‍💻‍ **iOS工程师**求职
+- Base: 广州/深圳
+- 比较擅长代码级别的性能优化 & 也能兼顾Flutter开发
+
 ## Status
 
 ![Rogue24's github stats](https://readme-stats.clckblog.space/api?username=Rogue24&show_icons=true&theme=tokyonight)
@@ -17,10 +23,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rogue24/Rogue24/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rogue24/Rogue24/output/github-contribution-grid-snake.svg">
 </picture>
-
-## Job-hunt
-
-👨‍💼 广州**iOS**求职 - 比较擅长代码级别的性能优化
 
 ## My partial repository
 
