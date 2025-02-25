@@ -44,6 +44,9 @@
 	QQ: 184669029
 	E-mail: zhoujianping24@hotmail.com
 
-## Visitors
+## Thanks for visiting :heart:
 
-[![HitCount](http://hits.dwyl.com/Rogue24/Rogue24.svg)](http://hits.dwyl.com/Rogue24/Rogue24)
+<br/>
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/Rogue24/count.svg">  
+</p>
