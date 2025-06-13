@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼! 🥳 𝗜'𝗺 Rogue24 ٩(๑>◡<๑)۶
+# 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Rogue24 ٩(๑>◡<๑)۶
 [![](https://img.shields.io/badge/-@Rogue24-%23181717?style=flat-square&logo=github)](https://github.com/Rogue24)
 ![iOS](https://img.shields.io/badge/-iOS-%232c3e50?style=flat-square&logo=iOS)
 
