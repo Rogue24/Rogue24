@@ -17,7 +17,7 @@
 
 ## Status
 
-![Rogue24's github stats](https://readme-stats.clckblog.space/api?username=Rogue24&show_icons=true&theme=tokyonight)
+![Rogue24's github stats](https://github-readme-stats.vercel.app/api?username=Rogue24&show_icons=true&theme=tokyonight)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rogue24/Rogue24/output/github-contribution-grid-snake-dark.svg">
