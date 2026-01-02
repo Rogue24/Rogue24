@@ -45,8 +45,3 @@
 	E-mail: zhoujianping24@hotmail.com
 
 ## Thanks for visiting :heart:
-
-<br/>
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/Rogue24/count.svg">  
-</p>
